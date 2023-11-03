@@ -1,0 +1,34 @@
+.registro-page {
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 120px;
+  }
+  .registro-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 4px;
+  }
+  .register__textBox {
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .register__btn {
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border: none;
+    color: white;
+    background-color: #3f51b5;
+  }
+  .register__google {
+    background-color: #4285f4;
+  }
+  .register div {
+    margin-top: 7px;
+  }

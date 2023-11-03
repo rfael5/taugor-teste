@@ -1,0 +1,13 @@
+.editar-img {
+    margin-bottom: 30px;
+}
+
+.row-input {
+    display:flex;
+    justify-content: space-between;
+}
+
+.form-cabecalho {
+    padding-top: 15px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,29 @@
+header {
+    width: 100%;
+}
+
+.header-items {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-header {
+    max-width: 170px;
+  }
+  
+  .header-links {
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 19px;
+  }
+  
+  .nav-link {
+    text-decoration:none;
+    color: #3f51b5;
+  }
+
+  .nav-link:hover {
+    color: #00308F;
+    text-decoration: underline;
+  }
